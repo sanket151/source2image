@@ -1,1 +1,2 @@
 echo "In the assmeble file"
+python -V
