@@ -3,3 +3,4 @@ cp -R /tmp/src /opt/app-root/
 cd /opt/app-root/src
 ls -lrt /opt/app-root/src
 python -m pip list
+python -m pip install --upgrade pip
