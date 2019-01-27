@@ -1,2 +1,5 @@
 echo "In the assmeble file"
-echo `python -V`
+ls -lrt /tmp/src
+cp -R /tmp/src /opt/app-root/
+cd /opt/app-root/src
+ls -lrt /opt/app-root/src
