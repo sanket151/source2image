@@ -10,3 +10,5 @@ RUN echo "Invoking pip install for the requirements"
 RUN RUN pip install -r requirements.txt
 
 CMD ["echo","In the dockerfile now...."]
+
+FROM centos/s2i-base-centos7
