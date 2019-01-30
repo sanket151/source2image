@@ -1,2 +1,0 @@
-echo "In the run file"
-python /opt/app-root/src/test.py
